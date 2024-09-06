@@ -15,7 +15,7 @@ Para melhor entendimento do repositório aqui contido:
   | 4         | rio               |    8          |   vazio             |
   | 5         | savana            |    9          |  1 leão             |
 
-### ANIMAIS:
+## ANIMAIS:
 
  O zoológico só está habilitado a tratar dos animais abaixo.
  A tabela mostra o espaço que cada indivíduo ocupa e em quais biomas se adapta.
@@ -29,7 +29,7 @@ Para melhor entendimento do repositório aqui contido:
   | GAZELA     |   2     |  savana              |
   | HIPOPOTAMO |   4     |  savana ou rio       |
 
-  ### REGRAS PARA ENCONTRAR UM RECINTO:
+  ## REGRAS PARA ENCONTRAR UM RECINTO:
 
 1) Um animal se sente confortável se está num bioma adequado e com espaço suficiente para cada indivíduo
 2) Animais carnívoros devem habitar somente com a própria espécie
